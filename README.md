@@ -1,4 +1,4 @@
-https://komarev.com/ghpvc/?username=ledeneveugene&color=blue
+![](https://komarev.com/ghpvc/?username=ledeneveugene&color=blue)
 # [Evgenii (Eugene) Ledenev](http://linkedin.com/in/eug-led)
 ## ⭐️ Senior front-end developer, 11 years of experience
 📍 41008, Seville, 🇪🇸 Spain, Central European Time (🕐CET / 🕑CEST)
