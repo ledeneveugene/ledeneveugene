@@ -1,4 +1,3 @@
-![](https://hit.yhype.me/github/profile?account_id=51231845)
 # [Evgenii (Eugene) Ledenev](http://linkedin.com/in/eug-led)
 ## ⭐️ Senior front-end developer, 11 years of experience
 📍 41008, Seville, 🇪🇸 Spain, Central European Time (🕐CET / 🕑CEST)
@@ -78,3 +77,4 @@ I have over 11 years of software development experience, working with companies 
 TypeScript, React, Redux, Next, Jest, Node.js, HTML, CSS, JavaScript, Git, REST APIs, SASS/SCSS, Webpack, Docker, CI/CD, Cypress, Express, Figma, Linux, Micro frontends (Module Federation), Nginx, React Testing Library, SQL, Storybook, Styled-components, TDD, Tailwind CSS, Vue.js, Websockets, Jira, Agile
 
 ---
+![](https://hit.yhype.me/github/profile?account_id=51231845)
